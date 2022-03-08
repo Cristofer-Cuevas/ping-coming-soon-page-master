@@ -8,4 +8,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## `Live`
 
-Link: [Ping coming soon page](https://sunnyside-agency-landing-page-main-zeta.vercel.app)
+Link: [Ping coming soon page](https://ping-coming-soon-page-master-lac.vercel.app/)
